@@ -1,6 +1,6 @@
+<<<<<<< HEAD
 你好乔世伟 这是第一个版本的代码 
 hello qiao this is first version code
 hello 
-hello
-hello
+hello qiao this is first version code
 
